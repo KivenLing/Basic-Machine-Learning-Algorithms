@@ -4,3 +4,4 @@
 
 ### 文件夹目录
 #### 1.basic-use ---- numpy 以及 matplotlib使用
+#### 2.kNN --- 基础的分类算法-k近邻算法
